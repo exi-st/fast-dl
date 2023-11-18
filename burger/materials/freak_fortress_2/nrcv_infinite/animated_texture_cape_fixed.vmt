@@ -1,0 +1,14 @@
+vertexlitgeneric
+{
+	$baseTexture "freak_fortress_2\nrcv_infinite\animated_texture_cape_fixed"
+
+	"Proxies"
+	{
+		"AnimatedTexture"
+		{
+			"animatedTextureVar" 			"$basetexture" //What to animate. Can also be $detail and $bumpmap
+			"animatedTextureFrameNumVar"	"$frame"
+			"animatedTextureFrameRate" 		"10" //FPS HERE
+		}
+	}
+}

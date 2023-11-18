@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2/nrc_v3/nrcv3_body"
+	"$lightwarptexture"		"models/player/pyro/pyro_lightwarp"
+}
