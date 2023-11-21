@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2/newestvergil/eyelash_albmout"
+	"$bumpmap"  "freak_fortress_2/newestvergil/eyelash_nrmrout"
+	"$translucent" 1
+}

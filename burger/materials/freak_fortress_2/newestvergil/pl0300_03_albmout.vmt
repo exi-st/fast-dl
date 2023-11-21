@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2/newestvergil/pl0300_03_albmout"
+	"$bumpmap"  "freak_fortress_2/newestvergil/pl0300_03_nrmrout"
+	"$translucent" 1
+}

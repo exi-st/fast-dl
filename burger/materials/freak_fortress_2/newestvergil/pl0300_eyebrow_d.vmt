@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2/newestvergil/pl0300_eyebrow_d"
+	"$bumpmap" "freak_fortress_2/newestvergil/pl0300_eyebrow_n"
+	"$detail" "freak_fortress_2/newestvergil/black"
+	"$translucent" 1
+}

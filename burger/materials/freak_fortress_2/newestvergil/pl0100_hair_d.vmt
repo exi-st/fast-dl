@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2/newestvergil/pl0100_hair_d"
+	"$bumpmap" "freak_fortress_2/newestvergil/pl0100_hair_n"
+	"$lightwarptexture" "freak_fortress_2/newestvergil/d_hair_refl2"
+	"$translucent" 1
+}

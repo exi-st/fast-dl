@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "freak_fortress_2\newputin\suit_sheet"
+	"$bumpmap" "freak_fortress_2\newputin\suit_sheet_nml"
+	"$halflambert" "1"
+        "$nocull" "1"
+}

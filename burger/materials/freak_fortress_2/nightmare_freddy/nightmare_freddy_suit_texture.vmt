@@ -1,0 +1,25 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "freak_fortress_2/nightmare_freddy/nightmare_freddy_suit_texture"
+	"$bumpmap" "freak_fortress_2/nightmare_freddy/nightmare_freddy_suit_normal"
+	"$surfaceprop" "Metal"
+	"$surfaceprop2" "Default"
+	"$nolod" 1
+	"$model" 1
+
+$halflambert 0
+$phong 1
+$diffuseexp 1
+
+	"$lightwarptexture" "freak_fortress_2/nightmare_freddy/freddy_suit_lightwarp"
+	"$phongexponenttexture" "freak_fortress_2/nightmare_freddy/freddy_albedo"
+	
+//$basemapalphaphongmask 1
+
+$phongfresnelranges "[1.5 .9 1]"
+$phongboost 1
+$phongalbedotint 1
+$phongexponent 8
+$ambientocclusion 1
+
+}

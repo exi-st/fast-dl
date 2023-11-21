@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2/newestvergil/pl0300_leg_d"
+	"$bumpmap" "freak_fortress_2/newestvergil/pl0300_leg_n"
+//	"$phongexponenttexture" "freak_fortress_2/newestvergil/pl0300_leg_s"
+	
+//	"$nocull"		1
+	"$translucent" 		0
+	"$halflambert"		1
+
+	"$phong"		1
+	"$phongexponentmap"	""
+	"$phongexponent" 	30
+	"$phongboost" 		3
+    $phongfresnelranges               "[0.1 0.1 0.1]"
+	
+	"$surface" "leather"
+	"$normalmapalphaphongexponenttexture" "1"
+	"$nodecal" "1"
+	
+}

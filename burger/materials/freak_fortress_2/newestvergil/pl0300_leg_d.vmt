@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2/newestvergil/pl0300_leg_d"
+	"$bumpmap" "freak_fortress_2/newestvergil/pl0300_leg_n"
+	"$phongexponenttexture" "freak_fortress_2/newestvergil/pl0300_leg_s"
+	
+	"$nodecal"  1
+}

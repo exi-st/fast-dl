@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2/newestvergil/pl0300_body_d"
+	"$bumpmap" "freak_fortress_2/newestvergil/pl0300_body_n"
+	"$phongexponenttexture" "freak_fortress_2/newestvergil/pl0300_body_s"
+	
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" 1
+	"$envmaptint" "[1 1 1]"
+	$normalmapalphaenvmapmask "1" 
+
+	"$phong"		1
+	"$phongexponent" 	15
+	"$phongboost" 		0.2
+                  $phongfresnelranges               "[1.0 1.0 1.0]"
+
+	"$halflambert" 0
+	"$nocull" 0
+	"$nodecal" 1
+	"$alphatest" 1
+	"$metallic" 		0.8
+	"$smoothness" 		0.8
+	"$dielectric"		0.2
+	
+	
+	"$surface" "metal"
+}

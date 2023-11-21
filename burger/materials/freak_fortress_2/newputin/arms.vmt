@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+                "$basetexture" "freak_fortress_2\newputin\arms"
+	"$bumpmap" "freak_fortress_2\newputin\arms_normal"
+	"$halflambert" "1"
+
+}

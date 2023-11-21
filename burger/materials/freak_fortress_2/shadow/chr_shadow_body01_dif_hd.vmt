@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	$baseTexture "freak_fortress_2\shadow\chr_shadow_body01_dif_HD"
+  	"$bumpmap" "freak_fortress_2\shadow\phong"
+
+	"$phong" "1"
+	"$phongboost"   "0.2"
+               "$phongexponent" 50
+	"$phongfresnelranges" "[1 1 1]"
+	"$phongexponenttexture"	"freak_fortress_2\shadow\chr_shadow_body01_spc_HD"
+	"$phongalbedotint" "1"
+
+
+	"$model" "1"
+	"$nocull"	"1"
+
+}

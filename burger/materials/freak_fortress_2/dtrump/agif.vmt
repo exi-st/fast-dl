@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture" "freak_fortress_2/dtrump/agif"
+
+   "Proxies"
+   {
+      "AnimatedTexture"
+      {
+         "animatedtexturevar" "$basetexture"
+         "animatedtextureframenumvar" "$frame"
+         "animatedtextureframerate" "17"
+      }
+   }
+}

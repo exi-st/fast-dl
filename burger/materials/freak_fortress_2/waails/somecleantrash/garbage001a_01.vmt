@@ -1,0 +1,9 @@
+
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "freak_fortress_2\waails\somecleantrash/garbage001a_01"
+	"$surfaceprop" "plastic"
+	"$nodecal" 1
+}
+

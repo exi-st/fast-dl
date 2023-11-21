@@ -1,0 +1,19 @@
+"vertexlitgeneric"
+{
+	"$baseTexture" "models\PG_props\pg_charaktere/pg_sir_dan/pg_sir_dan_bone"
+	"$bumpmap" "models\PG_props\pg_charaktere/pg_sir_dan/pg_sir_dan_bone_bump"
+	"$model" "1"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$phong"     "1"
+	"$phongexponent"  "20"
+	"$phongboost"   "1.5"
+	"$phongfresnelranges"   "[1 9 3]"
+	"$phongalbedotint" "1"
+	"$halflambert" "1"
+
+	"$rimlight"               "1"
+	"$rimlightexponent"      "20"
+	"$rimlightboost"          "1"	
+
+}

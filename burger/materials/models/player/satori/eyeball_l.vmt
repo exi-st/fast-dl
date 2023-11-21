@@ -1,0 +1,16 @@
+"EyeRefract"
+{
+	"$Iris" "models/player/satori/iris"
+	"$AmbientOcclTexture" "models/player/satori/reflet"
+	"$Envmap"             "models/player/satori/refrac"
+	"$CorneaTexture"       "models/player/satori/cornea"
+	"$lightwarptexture"   "models/player/shared/eye_lightwarp"  
+
+	"$EyeballRadius" "0.7"				// Default 0.5
+	"$AmbientOcclColor" "[1.0 1.0 1.0]"	// Default 0.33, 0.33, 0.33
+	"$ParallaxStrength" "0"          // Default 0.25
+	"$CorneaBumpStrength" "1.0"			// Default 1.0
+
+	"$halflambert" "1"
+	"$nodecal" "1"
+}

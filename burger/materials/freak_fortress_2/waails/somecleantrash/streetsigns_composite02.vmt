@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "freak_fortress_2\waails\somecleantrash/streetsigns_composite02"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+
+	"$color2"		"{80 180 80}"
+
+}
