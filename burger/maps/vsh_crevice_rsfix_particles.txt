@@ -1,0 +1,10 @@
+particles_manifest
+
+{
+	
+	"file"	"particles/weather_custom.pcf"
+    "file"	"particles/custom_particles001.pcf"
+	"file"	"particles/custom_particles002.pcf"
+	"file"	"particles/custom_particles003.pcf"
+
+}
